@@ -768,4 +768,354 @@
                 driverVerified: 'Verified',
                 btnCallText: 'Direct Call',
                 btnAudioText: 'Audio Note',
+                                upcomingStopsTitle: 'Upcoming Stops Today',
+                driverFullCall: 'Direct Phone Call',
+                driverFullVoice: 'Listen to Driver Note',
+                driverFullChat: 'In-App Quick Message',
+                scheduleTitle: 'Daily Timetable & Route Stops',
+                scheduleSub: 'Replaces chaotic WhatsApp group threads with dedicated scheduled visibility.',
+                scheduleYourStop: 'Your Residence (Pickup Stop #2)',
+                safetyCenterTitle: 'Student Safety & Emergency Protocol',
+                safetyCenterSub: 'Multi-layer safety measures for secure female student transportation.',
+                safetyCard1Title: 'Student Verification',
+                safetyCard1Desc: 'Official university ID checks required for all registered commuters.',
+                safetyCard2Title: 'Live Broadcast',
+                safetyCard2Desc: 'Continuous trip tracking accessible during active route hours.',
+                btnTriggerSosFull: 'Trigger Emergency SOS Alert',
+                driverModeTitle: 'Driver Simplified Interface:',
+                driverModeSub: 'Ultra-clear interface with large buttons for non-tech-savvy driver operation while stopped.',
+                driverCommandsTitle: 'Main Route Controls',
+                startRoute: 'START PICKUP ROUTE',
+                audioAnnounce: 'Send Voice Alert to Students',
+                callSupport: 'Call Dispatcher / Support',
+                rosterTitle: 'Student Pickup Checklist',
+                rosterSub: 'Tap student name to confirm boarding',
+                rosterCount: '2 / 4 Boarded',
+                featuresTitle: '6 Core Features of Amiryx V1',
+                featuresSub: 'Designed specifically for female university students and bus drivers across Saudi Arabia.',
+                f1Title: '1. Live GPS Location Tracking',
+                f1Desc: 'Interactive map simulation displaying "Bus coming to you" status and updated arrival time predictions.',
+                f2Title: '2. Verified Driver Profile',
+                f2Desc: 'Verified driver cards with direct phone connectivity, voice notes, and instant communication.',
+                f3Title: '3. Student Safety Protocol',
+                f3Desc: 'Student identification verification checks, boarding logs, and instant SOS emergency triggers.',
+                f4Title: '4. Beginner-Friendly UI',
+                f4Desc: 'Ultra-simple interface created for both non-tech-savvy drivers and students.',
+                f5Title: '5. Structured Route Scheduling',
+                f5Desc: 'Dedicated route timetables and stops that eliminate unorganized WhatsApp messaging threads.',
+                f6Title: '6. Universal Multi-Language',
+                f6Desc: 'Bilingual Arabic/English switcher adapting both typography and layout orientation (LTR/RTL).',
+                footerSlogan: '"Safety and comfort in every step."'
+            },
+            ar: {
+                headerSlogan: '"الأمان والراحة في كل خطوة."',
+                roleStudent: 'الطالبة',
+                roleDriver: 'عرض السائق',
+                langBtn: 'English',
+                sosBtn: 'طوارئ',
+                heroBadge: '🇸🇦 منصة لإدارة النقل الجامعي للطالبات',
+                heroTitle: 'تنقل جامعي آمن، ومضمون، ومُنظّم',
+                heroSubtitle: 'استبدال رسائل الواتساب غير المنظمة بمنصة مركزية للتتبع المباشر، ملفات السائقين المعتمدة، والجداول الزمنية الواضحة.',
+                heroLiveStatus: 'مسار الحافلة المباشر #104',
+                heroEtaText: 'المحطة القادمة: <strong>منزلك</strong> خلال <strong>6 دقائق</strong>',
+                btnRefreshMap: 'تحديث GPS',
+                tabMap: 'خريطة التتبع',
+                tabDriver: 'السائق المعتمد',
+                tabSchedule: 'جدول المسار',
+                tabSafety: 'مركز الأمان',
+                mapTitle: 'تتبع الموقع المباشر GPS',
+                mapSub: 'حافلة رقم #104 • جامعة الأميرة نورة (PNU)',
+                mapLiveBadge: 'بث مباشر',
+                markerPickup: 'موقع التوقف الخاص بك',
+                etaCounter: 'الوصول خلال 6 دقائق',
+                statusLabel: 'تنبيه المسار الحالي',
+                statusTitle: 'الحافلة قادمة إليك الآن!',
+                statusSub: 'المحطة القادمة: منزلك • على بعد 1.2 كم',
+                driverCardName: 'عائشة العتيبي',
+                driverVerified: 'معتمدة',
+                btnCallText: 'اتصال مباشر',
+                btnAudioText: 'رسالة صوتية',
+                upcomingStopsTitle: 'المحطات القادمة اليوم',
+                driverFullCall: 'اتصال هاتف مباشر',
+                driverFullVoice: 'استماع للملاحظة الصوتية',
+                driverFullChat: 'إرسال رسالة سريعة',
+                scheduleTitle: 'جدول الرحلة والمحطات اليومية',
+                scheduleSub: 'يستبدل محادثات الواتساب العشوائية بجدول زمني واضح ومحدد.',
+                scheduleYourStop: 'منزلك (المحطة رقم #2)',
+                safetyCenterTitle: 'بروتوكول أمان الطالبات والطوارئ',
+                safetyCenterSub: 'إجراءات أمان متعددة الشروط لنقل جامعي آمن للطالبات.',
+                safetyCard1Title: 'التحقق من هوية الطالبة',
+                safetyCard1Desc: 'مطابقة البطاقة الجامعية لجميع الطالبات المسجلات.',
+                safetyCard2Title: 'البث المباشر للمسار',
+                safetyCard2Desc: 'تتبع مباشر متاح خلال ساعات الرحلة الفعالة.',
+                btnTriggerSosFull: 'تفعيل إرسال إشعار الطوارئ SOS',
+                driverModeTitle: 'واجهة السائق المبسطة:',
+                driverModeSub: 'تصميم بلمسات واضحة وأزرار كبيرة لتسهيل الاستخدام عند التوقف.',
+                driverCommandsTitle: 'أوامر التحكم الرئيسية',
+                startRoute: 'بدء مسار نقل الطالبات',
+                audioAnnounce: 'إرسال تنبيه صوتي للطالبات',
+                callSupport: 'الاتصال بالدعم والتوجيه',
+                rosterTitle: 'قائمة حضور وصعود الطالبات',
+                rosterSub: 'انقر على اسم الطالبة لتأكيد الصعود',
+                rosterCount: 'تم صعود 2 من 4',
+                featuresTitle: 'مميزات عاميريكس V1 الستة',
+                featuresSub: 'صُممت خصيصاً لطالبات الجامعات وسائقي الحافلات في المملكة العربية السعودية.',
+                f1Title: '1. تتبع الموقع المباشر GPS',
+                f1Desc: 'خريطة تفاعلية تعرض حالة "الحافلة قادمة إليك" مع وقت وصول متوقع.',
+                f2Title: '2. ملف السائق المعتمد',
+                f2Desc: 'بطاقة سائق معتمدة تتيح الاتصال المباشر والرسائل الصوتية.',
+                f3Title: '3. بروتوكول أمان الطالبات',
+                f3Desc: 'تأكيد البطاقة الجامعية، سجلات الصعود، وزر طوارئ SOS فوري.',
+                f4Title: '4. واجهة سهلة الاستخدام',
+                f4Desc: 'تصميم بسيط ومناسب للسائقين والطالبات لسهولة التعامل.',
+                f5Title: '5. جدول مسارات منظم',
+                f5Desc: 'جداول ومحطات محددة تجنبك محادثات مجموعات الواتساب المربكة.',
+                f6Title: '6. دعم اللغات المتعددة',
+                f6Desc: 'مبدل لغوي بين العربية والإنجليزية يغير النصوص واتجاه الصفحات (RTL/LTR).',
+                footerSlogan: '"الأمان والراحة في كل خطوة."'
+            }
+        };
+
+        let currentLang = 'en';
+        let routeActive = false;
+
+        // View Switching Function (Role)
+        function switchView(role) {
+            const studentView = document.getElementById('view-student');
+            const driverView = document.getElementById('view-driver');
+            const studentTabsHeader = document.getElementById('student-tabs-header');
+            const navStudentRole = document.getElementById('nav-student-role');
+            const navDriverRole = document.getElementById('nav-driver-role');
+
+            if (role === 'student') {
+                studentView.classList.remove('hidden');
+                driverView.classList.add('hidden');
+                studentTabsHeader.classList.remove('hidden');
                 
+                navStudentRole.className = "px-3 py-1.5 rounded-lg text-xs font-bold transition flex items-center gap-1.5 bg-amiryx-purple text-white shadow-sm";
+                navDriverRole.className = "px-3 py-1.5 rounded-lg text-xs font-bold transition flex items-center gap-1.5 text-gray-600 hover:text-amiryx-purple";
+            } else {
+                studentView.classList.add('hidden');
+                driverView.classList.remove('hidden');
+                studentTabsHeader.classList.add('hidden');
+
+                navDriverRole.className = "px-3 py-1.5 rounded-lg text-xs font-bold transition flex items-center gap-1.5 bg-amiryx-purple text-white shadow-sm";
+                navStudentRole.className = "px-3 py-1.5 rounded-lg text-xs font-bold transition flex items-center gap-1.5 text-gray-600 hover:text-amiryx-purple";
+            }
+        }
+
+        // Student Dashboard Internal Tab Switching
+        function switchStudentTab(tab) {
+            const tabs = ['map', 'driver', 'schedule', 'safety'];
+            tabs.forEach(t => {
+                const el = document.getElementById(`student-tab-${t}`);
+                const btn = document.getElementById(`tab-btn-${t}`);
+                if (t === tab) {
+                    el.classList.remove('hidden');
+                    btn.className = "px-4 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-amiryx-purple text-white shadow-sm flex items-center gap-2";
+                } else {
+                    el.classList.add('hidden');
+                    btn.className = "px-4 py-2 rounded-xl text-xs font-bold transition whitespace-nowrap bg-white text-gray-600 hover:text-amiryx-purple border border-purple-100 flex items-center gap-2";
+                }
+            });
+        }
+
+        // Language Switcher Function (RTL/LTR Layout Engine)
+        function toggleLanguage() {
+            currentLang = currentLang === 'en' ? 'ar' : 'en';
+            const html = document.documentElement;
+            
+            if (currentLang === 'ar') {
+                html.setAttribute('dir', 'rtl');
+                html.classList.add('font-arabic');
+            } else {
+                html.setAttribute('dir', 'ltr');
+                html.classList.remove('font-arabic');
+            }
+
+            const langData = translations[currentLang];
+
+            // Update UI Element Translations
+            document.getElementById('header-slogan').innerText = langData.headerSlogan;
+            document.getElementById('role-student-label').innerText = langData.roleStudent;
+            document.getElementById('role-driver-label').innerText = langData.roleDriver;
+            document.getElementById('lang-btn-text').innerText = langData.langBtn;
+            document.getElementById('sos-btn-text').innerText = langData.sosBtn;
+            document.getElementById('hero-badge').innerText = langData.heroBadge;
+            document.getElementById('hero-title').innerText = langData.heroTitle;
+            document.getElementById('hero-subtitle').innerText = langData.heroSubtitle;
+            document.getElementById('hero-live-status').innerText = langData.heroLiveStatus;
+            document.getElementById('hero-eta-text').innerHTML = langData.heroEtaText;
+            document.getElementById('btn-refresh-map').innerText = langData.btnRefreshMap;
+            document.getElementById('tab-label-map').innerText = langData.tabMap;
+            document.getElementById('tab-label-driver').innerText = langData.tabDriver;
+            document.getElementById('tab-label-schedule').innerText = langData.tabSchedule;
+            document.getElementById('tab-label-safety').innerText = langData.tabSafety;
+            document.getElementById('map-header-title').innerText = langData.mapTitle;
+            document.getElementById('map-header-sub').innerText = langData.mapSub;
+            document.getElementById('map-live-badge').innerText = langData.mapLiveBadge;
+            document.getElementById('marker-pickup-label').innerText = langData.markerPickup;
+            document.getElementById('eta-counter').innerText = langData.etaCounter;
+            document.getElementById('status-card-label').innerText = langData.statusLabel;
+            document.getElementById('status-card-title').innerText = langData.statusTitle;
+            document.getElementById('status-card-sub').innerText = langData.statusSub;
+            document.getElementById('driver-card-name').innerText = langData.driverCardName;
+            document.getElementById('driver-verified-badge').innerText = langData.driverVerified;
+            document.getElementById('btn-call-text').innerText = langData.btnCallText;
+            document.getElementById('btn-audio-text').innerText = langData.btnAudioText;
+            document.getElementById('upcoming-stops-title').innerText = langData.upcomingStopsTitle;
+            document.getElementById('driver-full-call').innerText = langData.driverFullCall;
+            document.getElementById('driver-full-voice').innerText = langData.driverFullVoice;
+            document.getElementById('driver-full-chat').innerText = langData.driverFullChat;
+            document.getElementById('schedule-title').innerText = langData.scheduleTitle;
+            document.getElementById('schedule-sub').innerText = langData.scheduleSub;
+            document.getElementById('schedule-your-stop').innerText = langData.scheduleYourStop;
+            document.getElementById('safety-center-title').innerText = langData.safetyCenterTitle;
+            document.getElementById('safety-center-sub').innerText = langData.safetyCenterSub;
+            document.getElementById('safety-card1-title').innerHTML = `<i class="fa-solid fa-id-badge mr-1"></i> ${langData.safetyCard1Title}`;
+            document.getElementById('safety-card1-desc').innerText = langData.safetyCard1Desc;
+            document.getElementById('safety-card2-title').innerHTML = `<i class="fa-solid fa-location-crosshairs mr-1"></i> ${langData.safetyCard2Title}`;
+            document.getElementById('safety-card2-desc').innerText = langData.safetyCard2Desc;
+            document.getElementById('btn-trigger-sos-full').innerText = langData.btnTriggerSosFull;
+            document.getElementById('driver-mode-title').innerText = langData.driverModeTitle;
+            document.getElementById('driver-mode-sub').innerText = langData.driverModeSub;
+            document.getElementById('driver-commands-title').innerText = langData.driverCommandsTitle;
+            document.getElementById('text-start-route').innerText = routeActive ? (currentLang === 'ar' ? 'إيقاف المسار' : 'STOP ROUTE') : langData.startRoute;
+            document.getElementById('text-audio-announce').innerText = langData.audioAnnounce;
+            document.getElementById('text-call-support').innerText = langData.callSupport;
+            document.getElementById('roster-title').innerText = langData.rosterTitle;
+            document.getElementById('roster-sub').innerText = langData.rosterSub;
+            document.getElementById('roster-count').innerText = langData.rosterCount;
+            document.getElementById('features-title').innerText = langData.featuresTitle;
+            document.getElementById('features-sub').innerText = langData.featuresSub;
+            document.getElementById('f1-title').innerText = langData.f1Title;
+            document.getElementById('f1-desc').innerText = langData.f1Desc;
+            document.getElementById('f2-title').innerText = langData.f2Title;
+            document.getElementById('f2-desc').innerText = langData.f2Desc;
+            document.getElementById('f3-title').innerText = langData.f3Title;
+            document.getElementById('f3-desc').innerText = langData.f3Desc;
+            document.getElementById('f4-title').innerText = langData.f4Title;
+            document.getElementById('f4-desc').innerText = langData.f4Desc;
+            document.getElementById('f5-title').innerText = langData.f5Title;
+            document.getElementById('f5-desc').innerText = langData.f5Desc;
+            document.getElementById('f6-title').innerText = langData.f6Title;
+            document.getElementById('f6-desc').innerText = langData.f6Desc;
+            document.getElementById('footer-slogan').innerText = langData.footerSlogan;
+
+            showToast(currentLang === 'ar' ? 'تم تحويل اللغـة إلى العربيـة' : 'Switched to English Interface', 'info');
+        }
+
+        // Live GPS Bus Simulation
+        function simulateBusMovement() {
+            const bus = document.getElementById('moving-bus');
+            const positions = [
+                { left: '20%', top: '58%' },
+                { left: '38%', top: '42%' },
+                { left: '58%', top: '44%' },
+                { left: '72%', top: '22%' }
+            ];
+            
+            const randomPos = positions[Math.floor(Math.random() * positions.length)];
+            bus.style.left = randomPos.left;
+            bus.style.top = randomPos.top;
+
+            const newEta = Math.floor(Math.random() * 5) + 2;
+            document.getElementById('eta-counter').innerText = `${newEta} min ETA`;
+            showToast(`Bus Location Updated • New ETA: ~${newEta} mins`, 'info');
+        }
+
+        // Play Driver Audio Note Simulation
+        function playDriverVoiceNote() {
+            showToast('🔊 Aisha Voice Note: "Assalamu Alaikum, arriving in 5 minutes at main gate."', 'info');
+        }
+
+        // Driver Start/Stop Route Toggle
+        function toggleRouteStart() {
+            routeActive = !routeActive;
+            const btnText = document.getElementById('text-start-route');
+            const btn = document.getElementById('btn-start-route');
+
+            if (routeActive) {
+                btnText.innerText = currentLang === 'ar' ? 'إيقاف المسار' : 'STOP ROUTE';
+                btn.className = "w-full py-5 rounded-2xl bg-amber-500 hover:bg-amber-600 text-white font-extrabold text-base transition shadow-md flex items-center justify-center gap-3";
+                showToast('🚀 Route Active! GPS Signal Broadcasting to Students.', 'success');
+            } else {
+                btnText.innerText = translations[currentLang].startRoute;
+                btn.className = "w-full py-5 rounded-2xl bg-emerald-500 hover:bg-emerald-600 text-white font-extrabold text-base transition shadow-md flex items-center justify-center gap-3";
+                showToast('Route Completed.', 'info');
+            }
+        }
+
+        // Confirm Student Boarding in Driver Checklist
+        function toggleStudentBoarded(button) {
+            const parentCard = button.closest('.p-4');
+            parentCard.className = "p-4 rounded-2xl border border-gray-200 flex items-center justify-between bg-emerald-50/50";
+            parentCard.innerHTML = `
+                <div class="flex items-center gap-3">
+                    <div class="w-10 h-10 rounded-full bg-emerald-500 text-white flex items-center justify-center font-bold">
+                        <i class="fa-solid fa-check"></i>
+                    </div>
+                    <div>
+                        <div class="font-bold text-gray-900 text-sm">Reem Al-Qahtani (You)</div>
+                        <div class="text-xs text-emerald-600 font-semibold">Boarded Safely</div>
+                    </div>
+                </div>
+                <span class="text-xs font-bold text-emerald-700 bg-emerald-100 px-3 py-1 rounded-lg">Confirmed Just Now</span>
+            `;
+            document.getElementById('roster-count').innerText = "3 / 4 Boarded";
+            showToast('Boarding Confirmed for Reem Al-Qahtani.', 'success');
+        }
+
+        // Quick Modal Control Triggering
+        function triggerCallModal() {
+            document.getElementById('modal-call').classList.remove('hidden');
+        }
+
+        function triggerEmergencyModal() {
+            document.getElementById('modal-sos').classList.remove('hidden');
+        }
+
+        function triggerInAppChat() {
+            document.getElementById('modal-chat').classList.remove('hidden');
+        }
+
+        function closeModal(id) {
+            document.getElementById(id).classList.add('hidden');
+        }
+
+        function sendQuickMsg(msg) {
+            closeModal('modal-chat');
+            showToast(`Sent message: "${msg}"`, 'success');
+        }
+
+        function triggerAnnouncementModal() {
+            showToast('📢 Voice Announcement dispatched to student route phones.', 'info');
+        }
+
+        function triggerCallSupport() {
+            showToast('📞 Dialing Amiryx Support Line...', 'info');
+        }
+
+        // Custom Toast Notification System
+        function showToast(message, type = 'info') {
+            const container = document.getElementById('toast-container');
+            const toast = document.createElement('div');
+            
+            const bgColor = type === 'success' ? 'bg-emerald-600' : 'bg-amiryx-blue';
+            
+            toast.className = `${bgColor} text-white px-4 py-3 rounded-2xl shadow-xl text-xs font-bold flex items-center gap-2 transition-all transform duration-300 pointer-events-auto max-w-sm`;
+            toast.innerHTML = `
+                <i class="fa-solid ${type === 'success' ? 'fa-circle-check' : 'fa-circle-info'}"></i>
+                <span>${message}</span>
+            `;
+
+            container.appendChild(toast);
+
+            setTimeout(() => {
+                toast.classList.add('opacity-0', 'scale-95');
+                setTimeout(() => toast.remove(), 300);
+            }, 3200);
+        }
+    </script>
+</body>
+</html>
